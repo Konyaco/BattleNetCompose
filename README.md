@@ -1,6 +1,6 @@
 # BattleNetCompose
 
-Mimic the UI of the BattleNet client. Built on Jetbrains Compose.
+A imitation of BattleNet client UI, built on Jetbrains Compose.
 
 ## Screenshot
 
